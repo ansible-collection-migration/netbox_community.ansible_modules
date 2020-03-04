@@ -1,0 +1,8 @@
+plugins/module_utils/net_tools/netbox/netbox_utils.py future-import-boilerplate
+plugins/modules/netbox_device.py validate-modules:doc-missing-type
+plugins/modules/netbox_device.py validate-modules:parameter-type-not-in-doc
+plugins/modules/netbox_ip_address.py validate-modules:doc-missing-type
+plugins/modules/netbox_ip_address.py validate-modules:parameter-type-not-in-doc
+plugins/modules/netbox_prefix.py validate-modules:doc-missing-type
+plugins/modules/netbox_prefix.py validate-modules:parameter-type-not-in-doc
+plugins/modules/netbox_site.py validate-modules:parameter-type-not-in-doc
